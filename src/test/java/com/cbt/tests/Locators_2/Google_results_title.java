@@ -21,33 +21,38 @@ public class Google_results_title {
      8. Repeat the same steps for all search items in the list
      List<String> searchStrs = Arrays.asList("Java", "JUnit", "Selenium" );
      */
-    public static void main(String[] args) throws InterruptedException{
+    public static void main(String[] args) throws InterruptedException {
         //open browser
-        WebDriver driver= BrowserFactory.getDriver("chrome");
+        WebDriver driver = BrowserFactory.getDriver("chrome");
         //goto https://google.com
         driver.get("https://google.com");
         Thread.sleep(1000);
         //Search for one of the strings the list searchStrs given below
-        ArrayList<String> searchStrs = new ArrayList<>(Arrays.asList("Java", "JUnit", "Selenium" ) );
-        WebElement str1Element= driver.findElement(By.name("q"));
-        str1Element.sendKeys(searchStrs.get(0));
-        str1Element.submit();
-
-        //In the results pages, capture the url right below the first results
-        WebElement str1URL= driver.findElement(By.className("TbwUpd"));
-        String firstURL= str1URL.getText();
-        //System.out.println(firstURL);
-
-        //Click on the first result
-        WebElement firstResult= driver.findElement(By.className("LC20lb"));
-        firstResult.click();
-
-        //Verify that url is equal to the value from step 4
-        String currentURL= driver.getCurrentUrl();
-        String result= StringUtility.verfiyEquals(firstURL,currentURL);
-        System.out.println(result);
-
-
-
+        ArrayList<String> searchStrs = new ArrayList<>(Arrays.asList("Java", "JUnit", "Selenium"));
+        for (int i = 0; i < searchStrs.size(); i++) {
+            WebElement str1Element = driver.findElement(By.name("q"));
+            str1Element.sendKeys(searchStrs.get(i));
+            str1Element.submit();
+            //In the results pages, capture the url right below the first results
+                WebElement str1URL = driver.findElement(By.className("TbwUpd"));
+                String firstURL = str1URL.getText();
+                //Click on the first result
+                WebElement Result = driver.findElement(By.className("LC20lb"));
+                Result.click();
+                //Verify that url is equal to the value from step 4
+                String currentURL = driver.getCurrentUrl();
+                if (currentURL.startsWith(firstURL)) {
+                    System.out.println("PASS");
+                } else {
+                    System.out.println("FAIL");
+                    System.out.println("Current Url= " + currentURL);
+                    System.out.println("First Url= " + firstURL);
+                }
+            //navigate back
+            driver.navigate().back();
+            WebElement str2Element = driver.findElement(By.name("q"));
+            str2Element.clear();
+        }
+        driver.quit();
     }
 }
