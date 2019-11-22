@@ -54,5 +54,6 @@ public class Google_results_title {
             str2Element.clear();
         }
         driver.quit();
+        //
     }
 }
