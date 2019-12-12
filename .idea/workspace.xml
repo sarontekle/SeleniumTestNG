@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b1e0fe5-1b9b-46bc-bd52-1fb0c7474db7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cbt/tests/TestCases_2/TestCase6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cbt/tests/TestCases_2/TestCase7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cbt/tests/TestCases_2/TestCase8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cbt/tests/TestCases_2/TestCases9_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cbt/tests/TestCases_3/TestCases1_6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,72 +23,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/cbt/tests/Locators_2/Ebay.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/cbt/tests/TestCases_3/TestCases1_6.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+            <state relative-caret-position="300">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BasicNavigtionTest.iml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/cbt/tests/NavigationTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/cbt/tests/Locators_2/Google_results_title.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/cbt/tests/TestCases_2/TestCases1_5.java">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="586">
-              <caret line="90" column="45" selection-start-line="90" selection-start-column="45" selection-end-line="90" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="850">
-              <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+            <state relative-caret-position="25">
+              <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -156,6 +111,11 @@
         <option value="$PROJECT_DIR$/src/test/java/com/cbt/tests/Locators_2/Google_results_title.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/test/java/com/cbt/tests/TestCases_2/TestCases1_5.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cbt/tests/TestCases_2/TestCase6.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cbt/tests/TestCases_2/TestCase7.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cbt/tests/TestCases_2/TestCase8.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cbt/tests/TestCases_2/TestCases9_12.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cbt/tests/TestCases_3/TestCases1_6.java" />
       </list>
     </option>
   </component>
@@ -178,10 +138,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2052" />
-    <option name="y" value="59" />
-    <option name="width" value="1548" />
-    <option name="height" value="830" />
+    <option name="x" value="240" />
+    <option name="y" value="125" />
+    <option name="width" value="1440" />
+    <option name="height" value="775" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -189,8 +149,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -273,12 +231,25 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="cbt" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="TestCases_3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BasicNavigtionTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BasicNavigtionTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="cbt" type="462c0819:PsiDirectoryNode" />
               <item name="utilities" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -300,34 +271,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestCases1_5.test3">
-    <configuration name="Google_results_title" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cbt.tests.Locators_2.Google_results_title" />
-      <module name="BasicNavigtionTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cbt.tests.Locators_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VyTrackTitleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cbt.tests.Locators_2.VyTrackTitleTest" />
-      <module name="BasicNavigtionTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cbt.tests.Locators_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestCases1_5.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.TestCases9_12.test9">
+    <configuration name="TestCase6.test6" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BasicNavigtionTest" />
       <extension name="coverage">
         <pattern>
@@ -336,7 +281,25 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.cbt.tests.TestCases_2" />
-      <option name="MAIN_CLASS_NAME" value="com.cbt.tests.TestCases_2.TestCases1_5" />
+      <option name="MAIN_CLASS_NAME" value="com.cbt.tests.TestCases_2.TestCase6" />
+      <option name="METHOD_NAME" value="test6" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCase7.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BasicNavigtionTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cbt.tests.TestCases_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cbt.tests.TestCases_2" />
+      <option name="MAIN_CLASS_NAME" value="com.cbt.tests.TestCases_2.TestCase7" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -345,7 +308,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCases1_5.test2" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestCase8.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BasicNavigtionTest" />
       <extension name="coverage">
         <pattern>
@@ -354,8 +317,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.cbt.tests.TestCases_2" />
-      <option name="MAIN_CLASS_NAME" value="com.cbt.tests.TestCases_2.TestCases1_5" />
-      <option name="METHOD_NAME" value="test2" />
+      <option name="MAIN_CLASS_NAME" value="com.cbt.tests.TestCases_2.TestCase8" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -363,7 +326,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCases1_5.test3" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestCases1_5.test5" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BasicNavigtionTest" />
       <extension name="coverage">
         <pattern>
@@ -373,7 +336,25 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.cbt.tests.TestCases_2" />
       <option name="MAIN_CLASS_NAME" value="com.cbt.tests.TestCases_2.TestCases1_5" />
-      <option name="METHOD_NAME" value="test3" />
+      <option name="METHOD_NAME" value="test5" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCases9_12.test9" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BasicNavigtionTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cbt.tests.TestCases_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cbt.tests.TestCases_2" />
+      <option name="MAIN_CLASS_NAME" value="com.cbt.tests.TestCases_2.TestCases9_12" />
+      <option name="METHOD_NAME" value="test9" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -383,11 +364,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestCases1_5.test3" />
-        <item itemvalue="TestNG.TestCases1_5.test2" />
-        <item itemvalue="TestNG.TestCases1_5.test1" />
-        <item itemvalue="Application.Google_results_title" />
-        <item itemvalue="Application.VyTrackTitleTest" />
+        <item itemvalue="TestNG.TestCases9_12.test9" />
+        <item itemvalue="TestNG.TestCase8.test" />
+        <item itemvalue="TestNG.TestCase7.test1" />
+        <item itemvalue="TestNG.TestCase6.test6" />
+        <item itemvalue="TestNG.TestCases1_5.test5" />
       </list>
     </recent_temporary>
   </component>
@@ -419,50 +400,58 @@
       <workItem from="1574190672388" duration="17000" />
       <workItem from="1574349300291" duration="6384000" />
       <workItem from="1574365696099" duration="3296000" />
-      <workItem from="1574460856195" duration="3914000" />
+      <workItem from="1574460856195" duration="4113000" />
+      <workItem from="1574564485844" duration="4007000" />
+      <workItem from="1574708982337" duration="3682000" />
+      <workItem from="1574783568371" duration="1561000" />
+      <workItem from="1575155351176" duration="5540000" />
+      <workItem from="1575246014863" duration="756000" />
+      <workItem from="1575307970090" duration="960000" />
+      <workItem from="1575315732541" duration="85000" />
+      <workItem from="1575588325345" duration="392000" />
+      <workItem from="1575660263737" duration="210000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestCases1_5_test1 - 2019.11.22 at 17h 28m 28s.xml">
-      <configuration name="TestCases1_5.test1" configurationId="TestNG" />
+    <history-entry file="TestCase7_test1 - 2019.11.30 at 18h 27m 05s.xml">
+      <configuration name="TestCase7.test1" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestCases1_5_test1 - 2019.11.22 at 17h 33m 53s.xml">
-      <configuration name="TestCases1_5.test1" configurationId="TestNG" />
+    <history-entry file="TestCase7_test1 - 2019.11.30 at 18h 33m 19s.xml">
+      <configuration name="TestCase7.test1" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestCases1_5_test1 - 2019.11.22 at 17h 34m 13s.xml">
-      <configuration name="TestCases1_5.test1" configurationId="TestNG" />
+    <history-entry file="TestCase8_test - 2019.11.30 at 18h 38m 26s.xml">
+      <configuration name="TestCase8.test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestCases1_5_test1 - 2019.11.22 at 17h 39m 07s.xml">
-      <configuration name="TestCases1_5.test1" configurationId="TestNG" />
+    <history-entry file="TestCase8_test - 2019.11.30 at 18h 41m 19s.xml">
+      <configuration name="TestCase8.test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestCases1_5_test1 - 2019.11.22 at 17h 40m 07s.xml">
-      <configuration name="TestCases1_5.test1" configurationId="TestNG" />
+    <history-entry file="TestCase8_test - 2019.11.30 at 18h 43m 07s.xml">
+      <configuration name="TestCase8.test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestCases1_5_test1 - 2019.11.22 at 17h 44m 41s.xml">
-      <configuration name="TestCases1_5.test1" configurationId="TestNG" />
+    <history-entry file="TestCase8_test - 2019.11.30 at 18h 44m 33s.xml">
+      <configuration name="TestCase8.test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestCases1_5_test2 - 2019.11.22 at 17h 59m 42s.xml">
-      <configuration name="TestCases1_5.test2" configurationId="TestNG" />
+    <history-entry file="TestCases9_12_test9 - 2019.11.30 at 20h 11m 04s.xml">
+      <configuration name="TestCases9_12.test9" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestCases1_5_test2 - 2019.11.22 at 18h 04m 22s.xml">
-      <configuration name="TestCases1_5.test2" configurationId="TestNG" />
+    <history-entry file="TestCases9_12_test9 - 2019.11.30 at 20h 14m 03s.xml">
+      <configuration name="TestCases9_12.test9" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestCases1_5_test2 - 2019.11.22 at 18h 07m 45s.xml">
-      <configuration name="TestCases1_5.test2" configurationId="TestNG" />
+    <history-entry file="TestCases9_12_test9 - 2019.11.30 at 20h 17m 22s.xml">
+      <configuration name="TestCases9_12.test9" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestCases1_5_test3 - 2019.11.22 at 18h 14m 09s.xml">
-      <configuration name="TestCases1_5.test3" configurationId="TestNG" />
+    <history-entry file="TestCases9_12_test9 - 2019.11.30 at 20h 29m 51s.xml">
+      <configuration name="TestCases9_12.test9" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50120000" />
+    <option name="totallyTimeSpent" value="67512000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32036248" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36442953" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -472,7 +461,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329429" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.18444444" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.112737924" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39970717" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -480,7 +469,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3288889" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32796487" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.329429" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -496,24 +485,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/cbt/tests/TestCases_2/TestCases1_5.java</url>
-          <line>32</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/cbt/tests/TestCases_2/TestCases1_5.java</url>
-          <line>50</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/com/cbt/utilities/TtitleVerification.java">
@@ -613,10 +584,70 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cbt/tests/TestCases_2/TestCases1_5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2634">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cbt/tests/TestCases_2/TestCase8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="31" column="5" selection-start-line="18" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cbt/tests/TestCases_2/TestCases9_12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="44" column="41" selection-start-line="44" selection-start-column="41" selection-end-line="44" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="850">
           <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cbt/tests/TestCases_2/TestCase7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cbt/tests/TestCases_2/TestCase6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cbt/tests/TestCases_3/TestCases1_6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -654,16 +685,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cbt/tests/TestCases_2/TestCases1_5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="586">
-          <caret line="90" column="45" selection-start-line="90" selection-start-column="45" selection-end-line="90" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
